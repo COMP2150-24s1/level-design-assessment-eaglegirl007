@@ -72,35 +72,34 @@ If the player continues the new given path, they learn how to open the previousl
 
 ![Learning section](DocImages/16.PNG)
 
+Some screenshots may vary slightly from last minute edits (such as adding another health pack, or moving boxes to the left slightly).
 
-## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
 
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
+## 2. Core Gameplay
+### 2.4 Health Pickups / 2.6. Moving Platforms / 2.7. Passthrough Platforms
+![Health Pickup, Moving Platforms, and Passthrough Platforms Storyboard](DocImages/story1.png)
+I introduced the players to moving and drop-down platforms early in the level where they feel free to explore without having to worry about enemies or hazards. They are welcome to spend as much time as they like testing jump heights and the speed of platforms here. They can also identify the health pick-up sound without accidentally picking it up yet, the player loops back through here briefly, and will be able to heal properly then.
 
-You should restructure the headings below to match the order they appear in your level.
+### 2.2. Checkpoints / 2.8. Spikes
+![Checkpoints and Spikes Storyboard](DocImages/story2.png)
+I introduce the players to spikes early within the level too, so that the player can practice interacting with and avoiding the spikes without many repercussions. If the player dies, they are right near the start, and if they succeed there is a checkpoint soon after the introductory spikes to avoid repetition. 
 
-### 2.1. Acid
-
-### 2.2. Checkpoints
-
-### 2.3. Chompers
-
-### 2.4. Health Pickups
+### 2.1. Acid 
+![Acid Storyboard](DocImages/story3.png)
+I introduce players to acid reasonably early as well, so they know what they need to avoid in the future areas. The jump is short and can be completed easily. The player can also drop down and observe the acid at a closer height if they want. Seeing as acid respawns the player at the previous checkpoint, a checkpoint is placed right before the first patch of acid. This means any failures will have minimal setbacks.
 
 ### 2.5. Keys
+![Keys Storyboard](DocImages/story4.png)
+The first key is introduced in a zone that has familiar hazards and platforms combined together for the first time. It is visible from the starting point and can be easily returned to if it is left behind accidentally. There are two ways to easily obtain the key, allowing the player to make their own decisions in regard to what they have previously learnt. 
 
-### 2.6. Moving Platforms
+### 2.3. Chompers / 2.10. Weapon Pickup (Gun)
+![Chompers and Weapon Pickup (Gun) Storyboard](DocImages/story5.png)
+The first weapon pickup, a gun, is introduced right before the first killable hazard is introduced. The weapon is only accessible after all non-moving hazards have been demonstrated first, so that the player knows it is not necessary to have a gun to avoid said hazards. This part of the level is flat, and the player is safe from the chomper and can observe its behavior before shooting it from a distance.
 
-### 2.7. Passthrough Platforms
+### 2.9. Spitters / 2.11. Weapon Pickup (Staff)
+![Spitters and Weapon Pickup (Staff) Storyboard](DocImages/story6.png)
+Finally, the sword pickup is introduced while the player is in a small area that is only escapable by utilizing the sword. The sword is introduced after the gun as it has more utility in this level. The first spitter can be observed and fought with the new weapon. Spitters were introduced after chompers as they are more confusing due to the moving projectile.
 
-### 2.8. Spikes
-
-### 2.9. Spitters
-
-### 2.10. Weapon Pickup (Gun)
-
-### 2.11. Weapon Pickup (Staff)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
