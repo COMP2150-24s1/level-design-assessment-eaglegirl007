@@ -3,20 +3,75 @@
 ### Name: Emma Austin
 ### Student number: 47789972 
 
-## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
-
+## 1. Player Experience
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+The player learns how to navigate the given level and the obstacles within through the gradual introduction of new challenges overtime. First, they are introduced to the jumping mechanic. While the player already knows the controls, it is important for them to discover the limits and constraints of the mechanic. This is done by having the player do some simple jumps, one showing the maximum height reachable.
+
+![Photo of simple jumps](DocImages/1.PNG)
+
+Next, the player encounters spikes. The player is provided with a health pickup afterwards, so that the player may discover the effects of a spike without too much repercussion. A checkpoint is placed after so that future jumps can be repeated without unnecessary repetition of mastered sections.
+
+![Photo of simple jumps with spikes](DocImages/2.PNG)
+
+The first encounter with an enemy is done on a reasonably empty platform, it is sectioned off from most harmful entities. This is so the player may play around and learn the gun and enemy mechanics in a simple manner.
+
+![Photo of flat-ish terrain and single chomper](DocImages/3.PNG)
+
+A final example of discovery is with the dynamic of push able boxes being used on pressure pads. The player can see the door open, and the box above the button, but cannot exit the door without the box. This is then problematised for a more complex box-pushing puzzle, where the box must be pushed onto acid. 
+
+![Photo of door, pressure pad, and box all visible at once](DocImages/4.PNG)
+
+The box floating in acid is seen near the boxes, as an example of what is required so that the player knows what is expected of them. 
+
+![Photo of acid where box is needed to pass](DocImages/6.PNG)
+![Photo of boxes near acid to demonstrate player expectations](DocImages/5.PNG)
+
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+The drama within the game aims to create experiential intensity for the player. This is done by having different areas focused on tasks of varying difficulties. The most intense parts of the level are towards the middle, where players are first getting used to fighting several enemies at once, and the end where the final path is littered with many dangerous encounters.
+Here is the middle zone:
+
+![Photo of large area with several chompers and spitters](DocImages/7.PNG)
+
+This tense moment is followed by a moment of relief, the player does a small loop back to the beginning of the level. It is short and easy, but acts as a break before what is probably the hardest puzzle in the level.
+
+![Easy Loop-back](DocImages/9.PNG)
+![Hard Puzzle](DocImages/8.PNG)
+
+After this difficult puzzle is an easy, relaxing puzzle in preparation for the final difficult stretch.
+
+![Easy Puzzle](DocImages/10.PNG)
+
+The final stretch adds a final dramatic climax before the level’s resolution.
+
+![Longer and more difficult section as a final climax for the game](DocImages/11.PNG)
+
 
 ### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+In the drama aspect of this document I discussed the fluctuations in difficulty throughout the game used to create feelings of tension and relief. Despite these fluctuations, there is still a continual growth in the difficulty and challenges occurring which can be seen when comparing the first, second, and third section.
+
+In section one, a significant challenge is the jump you make to get this first key. It is the first encounter with a moving platform that has danger beneath it, and the need to complete this jump creates tension.
+
+![Early difficult jump to get key](DocImages/12.PNG)
+
+In comparison, the third section of the game has a moving platform come out of and dip into acid, it also leads to a platform that has a chomper.
+
+![Late difficult jump with acid-touching platform](DocImages/13.PNG)
+
 
 ### 1.4. Exploration
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+The level has been made so that the player, while having a main linear path, can explore small offshoots for bonus health, challenge, or even an easier route as seen in the area below.
+
+![Offshoot path with enemies, health, and optional paths](DocImages/14.PNG)
+
+The level is mostly linear, and only has a small area repeated. This space is repeated to create a moment of relief and so that the player feels they are exploring a connected space, instead of a long straight tunnel. The player is encouraged to stay on the correct path by using a destructible wall to block the ‘incorrect’ way, the player must go the long route and reach the Staff. 
+
+![Pathing options](DocImages/15.PNG)
+
+If the player continues the new given path, they learn how to open the previously blocked one.
+
+![Learning section](DocImages/16.PNG)
+
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
