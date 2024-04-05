@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
 ### Name: Emma Austin
 ### Student number: 47789972 
@@ -122,14 +121,21 @@ Key for the Level Map diagrams seperate due to minimal whiteboard space:
 
 ## 4. Iterative Design
 Before starting on my main level design maps, I created several early prototypes of specific areas/sections within the game. This was important for figuring out how everything would connect, especially the small loop-around. The final level designs were made after iterative changes. I created small corners of storyboards and tried piecing them together, tweaking things and rearranging areas as I went. While doing this I tested things in Unity to become more comfortable with what is available.
+
 This is an early prototype of section 3; the left side was eventually changed drastically so that the experience did not become ‘too easy’ near the end. The bottom of the map stayed similar, though upper platforms and puzzles were changed too.
+![Early prototype of section 3](DocImages/iterativedesign1.png)
  
 Here is an early attempt at figuring out the loop-around that is present in the final version of the level. There was less exploration present for the player. An example of a change that was necessary was moving the switch so that it was underneath the box, as it was hard/impossible to push a box on-level with the switch onto said switch.
+![Early prototype of section 2 loop through 1](DocImages/iterativedesign2.png)
  
 This is a much later storyboard in the iterative process. It was made to represent the second area within second two. By this point I already had a general idea of what I wanted with the puzzle. Further changes were still made, to help prevent the box from getting stuck. At this point in the iterative process I had a draft level completed and was starting to change around things in the level that felt ‘wrong’ as well. Such as changing the spitters to chompers, as they felt tedious to manage, it felt chance-like instead of strategic.
+![Later prototype of section 2 puzzle](DocImages/iterativedesign3.png)
  
 Finally, this is the main puzzle of section 3. I, after several attempts at figuring out the logic behind it, came up with this idea, but was unable to implement it with the switches and had to continue prototyping.
- 
+![Attempted puzzle for section 3 that could not be implemented](DocImages/iterativedesign4.png)
+
 Here is another short design I came up with mid-work, which still was not implemented.
- 
+![Puzzle 3 idea sketched](DocImages/iterativedesign5.png)
+
 Overall, I ended up going with another idea that worked better with the prefabs provided. If I was to change anything about the level, I would be keen to make this platforming section at the start of area 3 more of a mental challenge for the players. I wanted to come up with something creative but felt limited by the time I had and ended up with a more mediocre puzzle solution than I would have liked. If I had more time, I would have liked to further improve this encounter through more iterative design.
+
